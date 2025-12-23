@@ -1,0 +1,7 @@
+{
+  "name": "PhysiqueAI - Smart Fitness Tracker",
+  "description": "An AI-powered fitness tracker that analyzes your physique from photos to suggest targeted workouts, posture corrections, and muscle focus areas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
